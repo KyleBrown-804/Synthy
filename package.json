@@ -1,0 +1,14 @@
+{
+  "name": "vibe-synth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kyle Brown",
+  "license": "ISC",
+  "dependencies": {
+    "tone": "^14.7.58"
+  }
+}
